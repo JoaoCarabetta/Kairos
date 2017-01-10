@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 
 
-
 def convert_to_minutes(G):
 
     convert = lambda x: sum([int(y) * (60 - 59 * n) for n, y in enumerate(x.strip("'").split(":"))])
@@ -29,8 +28,6 @@ G.add_edges_from([(1, 2, dict(t_dur=10)),
                   (2, 3, dict(t_dur=20)),
                   (3, 4, dict(t_dur=5)),
                   (4, 1, dict(t_dur=15))])
-
-
 
 
 for n1, n2 in G.nodes_iter(data=True):
