@@ -6,11 +6,11 @@ Planejamento do Projeto
     
     -- A estrura do Grafo deve ser tal que:
     
-        - direcional
+        - direcional OK
         
         - Nodes devem conter: trip_id{horário de parada}, localizacao (lat, long), stop_id
         
-        - Edges devem conter: tempo de viagem, trip_id
+        - Edges devem conter: tempo de viagem, trip_id OK
 
 -- Busca bruta usando Dijkstra algorithm modificado
 
