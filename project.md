@@ -1,10 +1,10 @@
 Planejamento do Projeto
 
--- Processar GTFS para grafo
+- Processar GTFS para grafo
 
-    -- GTFS raw para SQL (veja instruções no to_SQL, confira usando Explore Database.ipynb) OK
+    - GTFS raw para SQL (veja instruções no to_SQL, confira usando Explore Database.ipynb) OK
     
-    -- A estrura do Grafo deve ser tal que:
+    - A estrura do Grafo deve ser tal que:
     
         - direcional OK
         
@@ -12,12 +12,11 @@ Planejamento do Projeto
         
         - Edges devem conter: tempo de viagem, trip_id OK
 
--- Busca bruta usando Dijkstra algorithm modificado
+- Busca bruta usando Dijkstra algorithm modificado
 
--- Localizar GTFS num mapa usando javascript
+- Localizar GTFS num mapa usando javascript
 
--- Invetar jeito de calcular isocrona em mapa de rua - caminhada
+- Invetar jeito de calcular isocrona em mapa de rua - caminhada
+- Merge o GTFS com o das ruas
 
--- Merge o GTFS com o das ruas
-
--- Calcular indíce de locomoção para SP
+--Calcular indíce de locomoção para SP
