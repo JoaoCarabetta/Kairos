@@ -8,7 +8,7 @@ Planejamento do Projeto
     
         - direcional
         
-        - Nodes devem conter: horário de parada, localizacao (lat, long), stop_id
+        - Nodes devem conter: trip_id{horário de parada}, localizacao (lat, long), stop_id
         
         - Edges devem conter: tempo de viagem, trip_id
 
