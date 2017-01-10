@@ -1,0 +1,8 @@
+Planejamento do Projeto
+
+-- Processar GTFS para grafo
+-- Busca bruta usando Dijkstra algorithm modificado
+-- Localizar GTFS num mapa usando javascript
+-- Invetar jeito de calcular isocrona em mapa de rua - caminhada
+-- Merge o GTFS com o das ruas
+-- Calcular indíce de locomoção para SP
