@@ -1,6 +1,11 @@
 # Kairos
 Isochron analysis of the city of SP
 
+### Info
+
+O grafo que contém todos os stops com o timetable de SP está em *graphs/sp_final.gexf*
+Para ler os grafo de maneira correta use o script em *scripts/read_graph.py*
+
 ### Planejamento do Projeto
 
 - [x] Processar GTFS para grafo
