@@ -20,6 +20,10 @@ Isochron analysis of the city of SP
         
         - [x] Edges devem conter: tempo de viagem, trip_id 
 
+- [x] Visualização do mapa
+    - [x] Plotar mapa
+    - [x] Plotar pontos de onibus no mapa
+
 - [ ] Busca bruta usando Dijkstra algorithm modificado
 
 - [ ] Localizar GTFS num mapa usando javascript
