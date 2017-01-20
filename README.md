@@ -25,11 +25,17 @@ Isochron analysis of the city of SP
     - [x] Plotar pontos de onibus no mapa
 
 - [ ] Busca bruta usando Dijkstra algorithm modificado
+    - [x] Calcular o menor caminho entre dois pontos
+    - [ ] Calcular bordas da isocrona
 
-- [ ] Localizar GTFS num mapa usando javascript
+- [ ] Busca usando método aleatório
+    - [x] Busca de pontos próximos para fazer transferencia
+    - [x] Caminhar aleatoriamente pelas linhas de transporte
+    - [ ] Fazer vários testes para ver se os resultados tem significado
 
-- [ ] Invetar jeito de calcular isocrona em mapa de rua - caminhada
 - [ ] Merge o GTFS com o das ruas
+ 
+- [ ] Adicionar tipo de transporte nos edges
 
 - [ ] Calcular indíce de locomoção para SP
 
