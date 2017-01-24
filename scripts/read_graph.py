@@ -19,3 +19,6 @@ def read(path):
                 MG.node[node[0]]['viagens'] = ast.literal_eval(MG.node[node[0]]['viagens'])
 
     return MG
+
+if __name__ == '__main__':
+    pass
